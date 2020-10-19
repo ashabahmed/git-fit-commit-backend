@@ -7,6 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
+Exercise.destroy_all
+User.destroy_all
 
 user = User.create(name: "Mushfi", sex: "Male", age: 24, startingWeight: 150, currentWeight: 150, goalWeight: 155, macros: "protein", skillLevel: "Beginner", equipment: "Body Weight")
 
@@ -17,7 +19,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Bicep,Shoulders",
-    example: "giphy-2.gif (https://dl.airtable.com/FvaObZ1SyqwBU12Wx4K7_giphy-2.gif)",
+    example: "https://dl.airtable.com/FvaObZ1SyqwBU12Wx4K7_giphy-2.gif",
     notes: "",
     modifications: ""
   },
