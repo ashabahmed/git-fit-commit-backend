@@ -34,7 +34,7 @@ ActiveRecord::Schema.define(version: 2020_10_19_212613) do
     t.string "sex"
     t.integer "age"
     t.integer "startingWeight"
-    t.integer "currentWeight"
+    t.string "currentWeight", default: [], array: true
     t.integer "goalWeight"
     t.string "macros"
     t.string "skillLevel"

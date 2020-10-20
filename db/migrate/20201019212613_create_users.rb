@@ -5,7 +5,7 @@ class CreateUsers < ActiveRecord::Migration[6.0]
       t.string :sex
       t.integer :age
       t.integer :startingWeight
-      t.integer :currentWeight
+      t.string :currentWeight, array: true, default: []
       t.integer :goalWeight
       t.string :macros
       t.string :skillLevel

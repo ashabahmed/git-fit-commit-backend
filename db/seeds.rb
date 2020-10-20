@@ -10,7 +10,7 @@
 Exercise.destroy_all
 User.destroy_all
 
-user = User.create(name: "Mushfi", sex: "Male", age: 24, startingWeight: 150, currentWeight: 150, goalWeight: 155, macros: "protein", skillLevel: "Beginner", equipment: "Body Weight")
+user = User.create(name: "Mushfi", sex: "Male", age: 24, startingWeight: 150, currentWeight: [150, 160], goalWeight: 155, macros: "protein", skillLevel: "Beginner", equipment: "Body Weight")
 
 exercises = [
   {
