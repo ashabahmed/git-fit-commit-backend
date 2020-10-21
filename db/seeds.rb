@@ -619,7 +619,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Core",
     minorMuscle: "",
-    example: "30-best-ab-exercises-situp-and-throw.jpg (https://dl.airtable.com/NDsSU55jRXSUAdKHEZA3_30-best-ab-exercises-situp-and-throw.jpg)",
+    example: "https://dl.airtable.com/NDsSU55jRXSUAdKHEZA3_30-best-ab-exercises-situp-and-throw.jpg",
     notes: "",
     modifications: ""
   },
@@ -629,7 +629,7 @@ exercises = [
     exerciseType: "Cardio",
     majorMuscle: "Legs",
     minorMuscle: "Outer Thigh",
-    example: "cca03f06-da6a-4d09-9718-b6e595fb2b96.gif (https://dl.airtable.com/Q5dmhk82TzqmlWq6xqJg_cca03f06-da6a-4d09-9718-b6e595fb2b96.gif)",
+    example: "https://dl.airtable.com/Q5dmhk82TzqmlWq6xqJg_cca03f06-da6a-4d09-9718-b6e595fb2b96.gif",
     notes: "Lady in the gif isn't giving it 100% make sure to touch the ground between reps",
     modifications: "Easier: remove the jump\nHarder: Hold Weights"
   },
@@ -639,7 +639,7 @@ exercises = [
     exerciseType: "Cardio,Laps",
     majorMuscle: "Full Body",
     minorMuscle: "",
-    example: "4ee3d030-05d7-4961-86a6-bcdc727ec8e9.gif (https://dl.airtable.com/k5H1cu0cQF6rfO8LsRaa_4ee3d030-05d7-4961-86a6-bcdc727ec8e9.gif)",
+    example: "https://dl.airtable.com/k5H1cu0cQF6rfO8LsRaa_4ee3d030-05d7-4961-86a6-bcdc727ec8e9.gif",
     notes: "",
     modifications: ""
   },
@@ -649,7 +649,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Tricep",
-    example: "14.gif (https://dl.airtable.com/h9v6LLAERqunzBJAdjeD_14.gif)",
+    example: "https://dl.airtable.com/h9v6LLAERqunzBJAdjeD_14.gif",
     notes: "",
     modifications: ""
   },
@@ -659,7 +659,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Arms,Core",
     minorMuscle: "Chest,Oblique",
-    example: "0dd5e852-dd90-4f1e-a570-c20dca7c72cf.gif (https://dl.airtable.com/OK93O1xWRA2yu3GG8zoF_0dd5e852-dd90-4f1e-a570-c20dca7c72cf.gif)",
+    example: "https://dl.airtable.com/OK93O1xWRA2yu3GG8zoF_0dd5e852-dd90-4f1e-a570-c20dca7c72cf.gif",
     notes: "",
     modifications: "Easier: do a pushup from your knees, and then the spiderman movement"
   },
@@ -669,7 +669,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Quads,Glutes",
-    example: "barbell-squat.gif (https://dl.airtable.com/r3DIlCSPTsimSjgCPuHS_barbell-squat.gif)",
+    example: "https://dl.airtable.com/r3DIlCSPTsimSjgCPuHS_barbell-squat.gif",
     notes: "Bar + 45LB",
     modifications: "Easier: air squat"
   },
@@ -679,7 +679,7 @@ exercises = [
     exerciseType: "Plyo,Cardio",
     majorMuscle: "Legs",
     minorMuscle: "Quads",
-    example: "5a1e902f-42e7-4b38-b3c5-af3cb2cbbf0c.gif (https://dl.airtable.com/gpp3YS4jTyijTClCALdq_5a1e902f-42e7-4b38-b3c5-af3cb2cbbf0c.gif)",
+    example: "https://dl.airtable.com/gpp3YS4jTyijTClCALdq_5a1e902f-42e7-4b38-b3c5-af3cb2cbbf0c.gif",
     notes: "You can do these for height (plyo) or speed (cardio) and to switch them up sometimes do them with your arms clasped at the front so it's a leg-only exercise",
     modifications: "Easier: Just do an air squat, or alternate squat and squat jump"
   },
@@ -689,7 +689,7 @@ exercises = [
     exerciseType: "Plyo",
     majorMuscle: "Full Body",
     minorMuscle: "",
-    example: "0145ce919124c8a3_SquatJump180Small.gif (https://dl.airtable.com/U5DO3G2T1apEtdTbx9PH_0145ce919124c8a3_SquatJump180Small.gif)",
+    example: "https://dl.airtable.com/U5DO3G2T1apEtdTbx9PH_0145ce919124c8a3_SquatJump180Small.gif",
     notes: "Turn body 180 while doing squat jump",
     modifications: ""
   },
@@ -699,7 +699,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Quads,Outer Thigh",
-    example: "_SquatLateralLegLiftSelf2_1_3.gif (https://dl.airtable.com/ZuOXOtbTRcuVbC9uQPuY__SquatLateralLegLiftSelf2_1_3.gif)",
+    example: "https://dl.airtable.com/ZuOXOtbTRcuVbC9uQPuY__SquatLateralLegLiftSelf2_1_3.gif",
     notes: "",
     modifications: ""
   },
@@ -709,7 +709,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Glutes",
-    example: "_StandingGluteKickBackSelf2_1_4.gif (https://dl.airtable.com/uF03I0P8SQW3vLXFUfRN__StandingGluteKickBackSelf2_1_4.gif)",
+    example: "https://dl.airtable.com/uF03I0P8SQW3vLXFUfRN__StandingGluteKickBackSelf2_1_4.gif",
     notes: "",
     modifications: "Easier: do this without the band. Use an"
   },
@@ -719,7 +719,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Inner Thigh,Outer Thigh,Glutes",
-    example: "standing abduction.jpg (https://dl.airtable.com/5som2SlmRjmkjITXHWtQ_standing%20abduction.jpg),Athletic-woman-doing-side-kick-resistance-band-exercise-1024x954.jpg (https://dl.airtable.com/a1WhvoWCTpB8KuxQc1Up_Athletic-woman-doing-side-kick-resistance-band-exercise-1024x954.jpg)",
+    example: "https://dl.airtable.com/5som2SlmRjmkjITXHWtQ_standing%20abduction.jpg)",
     notes: "",
     modifications: ""
   },
@@ -739,7 +739,7 @@ exercises = [
     exerciseType: "Plyo",
     majorMuscle: "Full Body",
     minorMuscle: "",
-    example: "workoutanniversarygif06570.gif (https://dl.airtable.com/ISLRenRs2FWV3QFratPw_workoutanniversarygif06570.gif)",
+    example: "https://dl.airtable.com/ISLRenRs2FWV3QFratPw_workoutanniversarygif06570.gif",
     notes: "",
     modifications: ""
   },
@@ -749,7 +749,7 @@ exercises = [
     exerciseType: "Plyo",
     majorMuscle: "Legs",
     minorMuscle: "Glutes",
-    example: "dumbbell-step-up.gif (https://dl.airtable.com/QBmW9FpxQn2FN7CQLFH7_dumbbell-step-up.gif)",
+    example: "https://dl.airtable.com/QBmW9FpxQn2FN7CQLFH7_dumbbell-step-up.gif",
     notes: "",
     modifications: "Easier: Don't hold weights\nHarder: Add a burpee, you can always add a burpee"
   },
@@ -759,7 +759,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Glutes",
-    example: "bikini_prep_full_glute_training_routine_quest_cake_recipe_training_vlog.gif (https://dl.airtable.com/A2uJ0HlJQWWebQFz0eul_bikini_prep_full_glute_training_routine_quest_cake_recipe_training_vlog.gif)",
+    example: "https://dl.airtable.com/A2uJ0HlJQWWebQFz0eul_bikini_prep_full_glute_training_routine_quest_cake_recipe_training_vlog.gif",
     notes: "",
     modifications: ""
   },
@@ -769,7 +769,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Core",
     minorMuscle: "",
-    example: "30-best-ab-exercises-straight-leg-barbell-situp.jpg (https://dl.airtable.com/GPXUq5zcRoGqP9WbvJLa_30-best-ab-exercises-straight-leg-barbell-situp.jpg)",
+    example: "https://dl.airtable.com/GPXUq5zcRoGqP9WbvJLa_30-best-ab-exercises-straight-leg-barbell-situp.jpg",
     notes: "",
     modifications: ""
   },
@@ -779,7 +779,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Inner Thigh,Outer Thigh",
-    example: "a7a48b0ff2d2b6b10e086290b1fede92.gif (https://dl.airtable.com/OLsqAqSuS16qsySMCgAw_a7a48b0ff2d2b6b10e086290b1fede92.gif)",
+    example: "https://dl.airtable.com/OLsqAqSuS16qsySMCgAw_a7a48b0ff2d2b6b10e086290b1fede92.gif",
     notes: "Bar + 35LB. You want your legs to be just wide enough that your knees still track over your toes",
     modifications: ""
   },
@@ -789,7 +789,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Back",
     minorMuscle: "",
-    example: "13a573f1_Superman.jpg (https://dl.airtable.com/I7Gp5cmZTKejJcfh2oNA_13a573f1_Superman.jpg)",
+    example: "https://dl.airtable.com/I7Gp5cmZTKejJcfh2oNA_13a573f1_Superman.jpg",
     notes: "",
     modifications: "Easier: alternate lifting. Lift your arms from the ground first, then your legs from the ground."
   },
@@ -799,7 +799,7 @@ exercises = [
     exerciseType: "Plyo",
     majorMuscle: "Full Body",
     minorMuscle: "",
-    example: "WtFJBce.gif (https://dl.airtable.com/MTMz4OoeRFaccThM3XKx_WtFJBce.gif)",
+    example: "https://dl.airtable.com/MTMz4OoeRFaccThM3XKx_WtFJBce.gif",
     notes: "",
     modifications: ""
   },
@@ -809,7 +809,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Tricep",
-    example: "Tricep-Dip-on-Bench-g.gif (https://dl.airtable.com/gZTLGaYoTI6P0WwdO2u4_Tricep-Dip-on-Bench-g.gif)",
+    example: "https://dl.airtable.com/gZTLGaYoTI6P0WwdO2u4_Tricep-Dip-on-Bench-g.gif",
     notes: "Find a chair or platform you can lean on.",
     modifications: "Easier: Legs bent closer to body\nHarder: Legs straight farther from body"
   },
@@ -819,7 +819,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Tricep",
-    example: "Triceps-Kickback.jpg (https://dl.airtable.com/tjY0kN2QTBSIoZZCv10k_Triceps-Kickback.jpg)",
+    example: "https://dl.airtable.com/tjY0kN2QTBSIoZZCv10k_Triceps-Kickback.jpg",
     notes: "",
     modifications: ""
   },
@@ -829,7 +829,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Tricep",
-    example: "5.gif (https://dl.airtable.com/Pp7ftUMQe6qzCxJg7iXs_5.gif)",
+    example: "https://dl.airtable.com/Pp7ftUMQe6qzCxJg7iXs_5.gif",
     notes: "",
     modifications: ""
   },
@@ -839,7 +839,7 @@ exercises = [
     exerciseType: "Plyo",
     majorMuscle: "Full Body",
     minorMuscle: "",
-    example: "Tuck-Jumps.gif (https://dl.airtable.com/Zo0O59geRTataUwhQo2r_Tuck-Jumps.gif)",
+    example: "https://dl.airtable.com/Zo0O59geRTataUwhQo2r_Tuck-Jumps.gif",
     notes: "",
     modifications: ""
   },
@@ -849,7 +849,7 @@ exercises = [
     exerciseType: "Cardio",
     majorMuscle: "Full Body,Core",
     minorMuscle: "Oblique",
-    example: "mountain-climbers-gif-3.gif (https://dl.airtable.com/QqbBRbLRFaMBuFe9VR8g_mountain-climbers-gif-3.gif)",
+    example: "https://dl.airtable.com/QqbBRbLRFaMBuFe9VR8g_mountain-climbers-gif-3.gif",
     notes: "",
     modifications: ""
   },
@@ -859,7 +859,7 @@ exercises = [
     exerciseType: "Cardio",
     majorMuscle: "Full Body",
     minorMuscle: "",
-    example: "WallBallToss.gif (https://dl.airtable.com/tOqEs71CReQ9XSK15MwN_WallBallToss.gif)",
+    example: "https://dl.airtable.com/tOqEs71CReQ9XSK15MwN_WallBallToss.gif",
     notes: "Toss the Medicine Ball in the air, or against a solid wall (concrete or brick) if available.",
     modifications: "Easier: use a non-weighted football, basketball etc."
   },
@@ -869,7 +869,7 @@ exercises = [
     exerciseType: "Cardio",
     majorMuscle: "Full Body",
     minorMuscle: "",
-    example: "eec0a59a6eacdc9cfd19a13290516684.jpg (https://dl.airtable.com/Ay4JNlvRqCCbLlKjwHWC_eec0a59a6eacdc9cfd19a13290516684.jpg)",
+    example: "https://dl.airtable.com/Ay4JNlvRqCCbLlKjwHWC_eec0a59a6eacdc9cfd19a13290516684.jpg",
     notes: "",
     modifications: "Easier: Step out instead of jumping"
   },
@@ -879,7 +879,7 @@ exercises = [
     exerciseType: "Cardio",
     majorMuscle: "Core",
     minorMuscle: "",
-    example: "cross-punch-exercise-illustration.gif (https://dl.airtable.com/AZ5zCPLNRJBCx5CwWUwn_cross-punch-exercise-illustration.gif)",
+    example: "https://dl.airtable.com/AZ5zCPLNRJBCx5CwWUwn_cross-punch-exercise-illustration.gif",
     notes: "",
     modifications: "Easier: Punch without weights"
   },
@@ -889,7 +889,7 @@ exercises = [
     exerciseType: "Weight",
     majorMuscle: "Core",
     minorMuscle: "",
-    example: "exAX6p.gif (https://dl.airtable.com/Vwxt6KjRW62PrDrpTDSx_exAX6p.gif)",
+    example: "https://dl.airtable.com/Vwxt6KjRW62PrDrpTDSx_exAX6p.gif",
     notes: "Really good if you have lower back pain and want to do an ab workout",
     modifications: ""
   }
