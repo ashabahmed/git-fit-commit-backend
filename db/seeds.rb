@@ -28,7 +28,7 @@ exercises = [
   },
   {
     exercise: "Bicep Curl",
-    equipment: "Bar,Dumbbells,Cable",
+    equipment: "Bar,Dumbbells,Gym",
     exerciseType: "Weight,Machine",
     majorMuscle: "Arms",
     minorMuscle: "Bicep",
@@ -58,7 +58,7 @@ exercises = [
   },
   {
     exercise: "Box Jumps",
-    equipment: "Body Weight",
+    equipment: "Body Weight,Gym",
     exerciseType: "Plyo",
     majorMuscle: "Full Body",
     minorMuscle: "",
@@ -68,7 +68,7 @@ exercises = [
   },
   {
     exercise: "Box Toe Touch",
-    equipment: "Platform",
+    equipment: "Gym",
     exerciseType: "Cardio",
     majorMuscle: "Legs",
     minorMuscle: "Glutes",
@@ -88,7 +88,7 @@ exercises = [
   },
   {
     exercise: "Bulgarian Split Squat",
-    equipment: "Bar,Dumbbells",
+    equipment: "Bar,Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Hamstrings,Quads",
@@ -98,7 +98,7 @@ exercises = [
   },
   {
     exercise: "Burpee",
-    equipment: "Body Weight,Bosu Ball",
+    equipment: "Body Weight,Gym",
     exerciseType: "Plyo",
     majorMuscle: "Full Body",
     minorMuscle: "",
@@ -128,7 +128,7 @@ exercises = [
   },
   {
     exercise: "Calf Raise",
-    equipment: "Dumbbells,Machine",
+    equipment: "Gym",
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Calves",
@@ -138,7 +138,7 @@ exercises = [
   },
   {
     exercise: "Chest Press",
-    equipment: "Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Chest",
@@ -148,7 +148,7 @@ exercises = [
   },
   {
     exercise: "Close to Wide Grip Burnout",
-    equipment: "Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Bicep",
@@ -178,7 +178,7 @@ exercises = [
   },
   {
     exercise: "Curtsey Lunges",
-    equipment: "Dumbbells,Bar",
+    equipment: "Dumbbells,Bar,Gym",
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Inner Thigh",
@@ -188,7 +188,7 @@ exercises = [
   },
   {
     exercise: "Deficit Squat",
-    equipment: "Platform",
+    equipment: "Bar,Gym",
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Glutes",
@@ -198,7 +198,7 @@ exercises = [
   },
   {
     exercise: "Donkey Kick",
-    equipment: "Dumbbells,Band,Body Weight",
+    equipment: "Dumbbells,Body Weight",
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Glutes",
@@ -208,7 +208,7 @@ exercises = [
   },
   {
     exercise: "Fire Hydrant",
-    equipment: "Band,Body Weight",
+    equipment: "Body Weight",
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Glutes,Outer Thigh",
@@ -238,7 +238,7 @@ exercises = [
   },
   {
     exercise: "Glute Bridge",
-    equipment: "Band,Dumbbells",
+    equipment: "Band,Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Glutes",
@@ -248,7 +248,7 @@ exercises = [
   },
   {
     exercise: "Glute Bridge March",
-    equipment: "Band,Platform",
+    equipment: "Band,Gym",
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Hamstrings",
@@ -258,7 +258,7 @@ exercises = [
   },
   {
     exercise: "Goblet Squat",
-    equipment: "Kettlebells,Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Glutes,Quads",
@@ -268,7 +268,7 @@ exercises = [
   },
   {
     exercise: "Halo",
-    equipment: "Kettlebells,Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Shoulders,Tricep",
@@ -278,7 +278,7 @@ exercises = [
   },
   {
     exercise: "Heart Pump",
-    equipment: "Kettlebells,Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Bicep,Chest",
@@ -317,16 +317,6 @@ exercises = [
     modifications: "Harder: Single Leg"
   },
   {
-    exercise: "Jumping Jack Push Press",
-    equipment: "Medicine Ball",
-    exerciseType: "Plyo",
-    majorMuscle: "Full Body",
-    minorMuscle: "",
-    example: "https://dl.airtable.com/oZVQcwVARtqxWSC7tyFu_workoutanniversarygif05570.gif",
-    notes: "",
-    modifications: "Easier: Remove the weights, step out instead of jump"
-  },
-  {
     exercise: "Jumping Jacks",
     equipment: "Body Weight",
     exerciseType: "Cardio",
@@ -338,7 +328,7 @@ exercises = [
   },
   {
     exercise: "Kettlebell Swing",
-    equipment: "Kettlebells,Dumbbells",
+    equipment: "Gym",
     exerciseType: "Cardio,Weight",
     majorMuscle: "Full Body",
     minorMuscle: "",
@@ -378,7 +368,7 @@ exercises = [
   },
   {
     exercise: "Leg Raise",
-    equipment: "Body Weight",
+    equipment: "Body Weight,Gym",
     exerciseType: "Weight",
     majorMuscle: "Core",
     minorMuscle: "",
@@ -388,7 +378,7 @@ exercises = [
   },
   {
     exercise: "Literally Just Jumping",
-    equipment: "Body Weight",
+    equipment: "Body Weight,Gym",
     exerciseType: "Plyo",
     majorMuscle: "Full Body",
     minorMuscle: "Calves,Glutes",
@@ -398,7 +388,7 @@ exercises = [
   },
   {
     exercise: "Lying Leg Raises",
-    equipment: "Body Weight",
+    equipment: "Body Weight,Gym",
     exerciseType: "Weight",
     majorMuscle: "Core",
     minorMuscle: "",
@@ -408,7 +398,7 @@ exercises = [
   },
   {
     exercise: "Military Plank",
-    equipment: "Body Weight",
+    equipment: "Body Weight,Gym",
     exerciseType: "Plyo",
     majorMuscle: "Full Body,Arms",
     minorMuscle: "Shoulders",
@@ -418,7 +408,7 @@ exercises = [
   },
   {
     exercise: "Monkey Jump",
-    equipment: "Body Weight",
+    equipment: "Body Weight,Gym",
     exerciseType: "Plyo,Cardio",
     majorMuscle: "Full Body",
     minorMuscle: "",
@@ -428,7 +418,7 @@ exercises = [
   },
   {
     exercise: "Mountain Climbers",
-    equipment: "Body Weight,Bosu Ball",
+    equipment: "Body Weight,Gym",
     exerciseType: "Cardio",
     majorMuscle: "Core,Full Body",
     minorMuscle: "",
@@ -438,7 +428,7 @@ exercises = [
   },
   {
     exercise: "Plank",
-    equipment: "Body Weight",
+    equipment: "Body Weight,Gym",
     exerciseType: "Weight",
     majorMuscle: "Full Body,Core",
     minorMuscle: "Chest",
@@ -498,7 +488,7 @@ exercises = [
   },
   {
     exercise: "Row",
-    equipment: "Bar,Dumbbells,Landmine",
+    equipment: "Bar,Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Back",
     minorMuscle: "",
@@ -508,7 +498,7 @@ exercises = [
   },
   {
     exercise: "Russian Twist",
-    equipment: "Kettlebells,Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Core",
     minorMuscle: "",
@@ -538,7 +528,7 @@ exercises = [
   },
   {
     exercise: "Side Arm / Lateral Raise",
-    equipment: "Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Lats",
@@ -588,7 +578,7 @@ exercises = [
   },
   {
     exercise: "Single Arm Clean and Press",
-    equipment: "Kettlebells,Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Full Body,Arms",
     minorMuscle: "Shoulders",
@@ -618,7 +608,7 @@ exercises = [
   },
   {
     exercise: "Situp and Throw",
-    equipment: "Medicine Ball",
+    equipment: "Gym",
     exerciseType: "Weight",
     majorMuscle: "Core",
     minorMuscle: "",
@@ -648,7 +638,7 @@ exercises = [
   },
   {
     exercise: "Skull Crusher",
-    equipment: "Dumbbells,Bar",
+    equipment: "Dumbbells,Bar,Gym",
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Tricep",
@@ -668,7 +658,7 @@ exercises = [
   },
   {
     exercise: "Squat",
-    equipment: "Bar,Dumbbells,Body Weight,Squat Rack,Band",
+    equipment: "Bar,Dumbbells,Body Weight,Band,Gym",
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Quads,Glutes",
@@ -718,7 +708,7 @@ exercises = [
   },
   {
     exercise: "Standing Leg Lift",
-    equipment: "Cable,Band",
+    equipment: "Band,Gym",
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Inner Thigh,Outer Thigh,Glutes",
@@ -728,7 +718,7 @@ exercises = [
   },
   {
     exercise: "Standing Oblique Crunch",
-    equipment: "Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Core",
     minorMuscle: "Oblique",
@@ -748,7 +738,7 @@ exercises = [
   },
   {
     exercise: "Step Up Lunges",
-    equipment: "Platform,Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Plyo",
     majorMuscle: "Legs",
     minorMuscle: "Glutes",
@@ -758,7 +748,7 @@ exercises = [
   },
   {
     exercise: "Step-Back Lunge",
-    equipment: "Bar,Body Weight,Dumbbells,Squat Rack",
+    equipment: "Bar,Body Weight,Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Legs",
     minorMuscle: "Glutes",
@@ -808,7 +798,7 @@ exercises = [
   },
   {
     exercise: "Tricep Dip",
-    equipment: "Body Weight",
+    equipment: "Body Weight,Gym",
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Tricep",
@@ -818,7 +808,7 @@ exercises = [
   },
   {
     exercise: "Tricep Kick-Back",
-    equipment: "Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Tricep",
@@ -828,7 +818,7 @@ exercises = [
   },
   {
     exercise: "Tricep Overhead Press",
-    equipment: "Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Weight",
     majorMuscle: "Arms",
     minorMuscle: "Tricep",
@@ -848,7 +838,7 @@ exercises = [
   },
   {
     exercise: "Twisted Mountain Climbers",
-    equipment: "Body Weight,Bosu Ball",
+    equipment: "Body Weight,Gym",
     exerciseType: "Cardio",
     majorMuscle: "Full Body,Core",
     minorMuscle: "Oblique",
@@ -858,7 +848,7 @@ exercises = [
   },
   {
     exercise: "Wall Ball",
-    equipment: "Medicine Ball",
+    equipment: "Gym",
     exerciseType: "Cardio",
     majorMuscle: "Full Body",
     minorMuscle: "",
@@ -868,7 +858,7 @@ exercises = [
   },
   {
     exercise: "Weighted Jumping Jacks",
-    equipment: "Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Cardio",
     majorMuscle: "Full Body",
     minorMuscle: "",
@@ -878,7 +868,7 @@ exercises = [
   },
   {
     exercise: "Weighted Punches",
-    equipment: "Dumbbells",
+    equipment: "Dumbbells,Gym",
     exerciseType: "Cardio",
     majorMuscle: "Core",
     minorMuscle: "",
