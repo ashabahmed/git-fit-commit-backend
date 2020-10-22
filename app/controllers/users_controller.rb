@@ -15,6 +15,14 @@ class UsersController < ApplicationController
     render json: user
   end
 
+  def destroy
+    user = Movie.find(params[:id])
+
+    user.destroy
+
+    render json: {}
+  end
+
 
   private
 

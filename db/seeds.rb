@@ -21,15 +21,15 @@ exercises = [
     equipment: "Dumbbells",
     exerciseType: "Weight",
     majorMuscle: "Arms",
-    minorMuscle: "Bicep,Shoulders",
+    minorMuscle: "Bicep, Shoulders",
     example: "https://dl.airtable.com/FvaObZ1SyqwBU12Wx4K7_giphy-2.gif",
     notes: "",
     modifications: ""
   },
   {
     exercise: "Bicep Curl",
-    equipment: "Bar,Dumbbells,Gym",
-    exerciseType: "Weight,Machine",
+    equipment: "Bar, Dumbbells, Gym",
+    exerciseType: "Weight, Machine",
     majorMuscle: "Arms",
     minorMuscle: "Bicep",
     example: "https://dl.airtable.com/Pld28NJDTyeYLcaJV7hQ_3e8b7121-738e-4457-b6d8-fd3a3e04de5a.gif",
