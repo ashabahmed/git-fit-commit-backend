@@ -38,7 +38,7 @@ ActiveRecord::Schema.define(version: 2020_10_19_212613) do
     t.integer "goalWeight"
     t.string "macros"
     t.string "skillLevel"
-    t.string "equipment", default: [], array: true
+    t.string "equipment"
   end
 
 end

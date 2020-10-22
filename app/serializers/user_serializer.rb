@@ -4,18 +4,11 @@ class UserSerializer < ActiveModel::Serializer
   has_many :exercises
 
   def exercises
-    self.object.exercises.filter{ |e| 
-    if e.equipment.include?(e.user.equipment)
-      return e.equipment
-    end
-    }
+    self.object.exercises.filter{|e| e.equipment.include?(e.user.equipment)}
   end
 
   def currentWeightInt
-    self.object.currentWeight.map do |cw|
-      cw.each do |c|
-        c.to_i
-      end
-    end
+    self.object.currentWeight.map{|w| w.currentWeight.to_i}
   end
+
 end
