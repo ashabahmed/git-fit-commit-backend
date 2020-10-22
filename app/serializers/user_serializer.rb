@@ -4,7 +4,11 @@ class UserSerializer < ActiveModel::Serializer
   has_many :exercises
 
   def exercises
-    self.object.exercises.filter{ |e| e.equipment.include?(e.user.equipment)}
+    self.object.exercises.filter{ |e| 
+    if e.equipment.include?(e.user.equipment)
+      return e.equipment
+    end
+    }
   end
 
   def currentWeightInt
