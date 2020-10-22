@@ -7,8 +7,8 @@ class UserSerializer < ActiveModel::Serializer
     self.object.exercises.filter{|e| e.equipment.include?(e.user.equipment)}
   end
 
-  def currentWeightInt
-    self.object.currentWeight.map{|w| w.currentWeight.to_i}
+  def currentWeight
+    self.object.currentWeight.map{|w| w.to_i}
   end
 
 end
